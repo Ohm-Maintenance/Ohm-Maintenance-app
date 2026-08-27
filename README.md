@@ -1,26 +1,28 @@
-Requisitos Funcionais: RF01:
+Requisitos Funcionais:
 
-O sistema deve permitir o cadastro de empresas, e através do mesmo, o cadastro de seus respectivos funcionários
+RF01: O sistema deve permitir o cadastro de empresas, e através do mesmo, o cadastro de seus respectivos funcionários.
 
-RF02: O sistema deve ser capaz de cadastrar, atualizar, exibir informações de usuário e deletar as informações
+RF02: O sistema deve ser capaz de cadastrar, atualizar, exibir informações de usuário e deletar as informações.
 
 RF03: O sistema deve permitir o cadastro de perfil de maquinários.
 
-RF04: O sistema deve permitir a inclusão de manuais e documentações técnicas dos maquinários cadastrados
+RF04: O sistema deve permitir a inclusão de manuais e documentações técnicas dos maquinários cadastrados.
 
-RF05: O sistema deve permitir a adição de documentação dos maquinários
+RF05: O sistema deve permitir a adição de documentação dos maquinários.
 
-RF06: O sistema deve exibir o status de saúde de cada maquinário,  através do mecanismo sensorial instalado nas mesmas.
+RF06: O sistema deve exibir o status de saúde de cada maquinário, através do mecanismo sensorial instalado nas mesmas.
+
+RF07: O sistema registrar e exibir data, hora e turno para controle de documentação e manutenção.
 
 Requisitos não Funcionais:
 
-RNF01: O sistema deve ter mecanismo de acessibilidade
+RNF01: O sistema deve ter mecanismo de acessibilidade.
 
-RNF02: O sistema deve facilitar manutenções futuras através da análise preditiva dos sensores dos maquinários
+RNF02: O sistema deve facilitar manutenções futuras através da análise preditiva dos sensores dos maquinários.
 
-RNF03: O sistema deve ser responsivo e multiplataforma
+RNF03: O sistema deve ser responsivo e multiplataforma.
 
-RNF04: O sistema deve possuir velocidade em seu funcionamento
+RNF04: O sistema deve possuir velocidade em seu funcionamento.
 
 User Stories:
 
