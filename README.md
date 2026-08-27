@@ -1,18 +1,29 @@
-Requisitos Funcionais: 
-RF01: O sistema deve permitir o cadastro de empresas, e através do mesmo, o cadastro de seus respectivos funcionários
+Requisitos Funcionais: RF01:
+
+O sistema deve permitir o cadastro de empresas, e através do mesmo, o cadastro de seus respectivos funcionários
+
 RF02: O sistema deve ser capaz de cadastrar, atualizar, exibir informações de usuário e deletar as informações
+
 RF03: O sistema deve permitir o cadastro de perfil de maquinários.
+
 RF04: O sistema deve permitir a inclusão de manuais e documentações técnicas dos maquinários cadastrados
+
 RF05: O sistema deve permitir a adição de documentação dos maquinários
+
 RF06: O sistema deve exibir o status de saúde de cada maquinário,  através do mecanismo sensorial instalado nas mesmas.
 
 Requisitos não Funcionais:
+
 RNF01: O sistema deve ter mecanismo de acessibilidade
+
 RNF02: O sistema deve facilitar manutenções futuras através da análise preditiva dos sensores dos maquinários
+
 RNF03: O sistema deve ser responsivo e multiplataforma
+
 RNF04: O sistema deve possuir velocidade em seu funcionamento
 
 User Stories:
+
 Técnico de Manutenção US01: Consulta Rápida de Manuais via IA/Busca. Como técnico de manutenção, quero pesquisar por termos, códigos de erro ou tirar dúvidas diretamente em um chat integrado aos manuais do equipamento, para que eu possa encontrar a solução e o procedimento de reparo corretos em segundos, sem precisar carregar manuais impressos volumosos. Critérios de Aceite: O sistema deve aceitar busca por texto livre e comandos de voz (falar o sintoma). A resposta deve indicar a página exata do manual oficial ou o trecho correspondente. O chat deve funcionar offline (com base nos manuais baixados localmente no tablet/smartphone). 
 
 Técnico de Manutenção US02: Visualização de Alertas de Sensores em Tempo Real. Como técnico de manutenção, quero receber notificações no meu dispositivo móvel quando um sensor (vibração, som, temperatura) detectar uma anomalia em uma máquina, para que eu possa agir rapidamente antes que ocorra uma falha catastrófica (manutenção preditiva). Critérios de Aceite: A notificação push deve conter o nome/ID da máquina, o tipo de alerta (ex: vibração excessiva) e a severidade (Baixa, Média, Crítica). O app deve abrir diretamente na tela de diagnóstico da máquina afetada. 
