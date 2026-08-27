@@ -2,7 +2,7 @@
 
 ### **Carlos Eduardo Mendes 42 anos
 
-> *"Quando uma máquina para de surpresa no chão de fábrica, a produção inteira trava e o prejuízo é imediato. Eu preciso de visibilidade em tempo real e documentação fácil na palma da minha mão para agir antes que o problema aconteça."*
+
 
 #### 1. Perfil Demográfico e Profissional
 * **Idade:** 42 anos
