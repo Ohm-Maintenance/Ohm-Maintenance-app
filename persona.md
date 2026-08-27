@@ -1,26 +1,50 @@
 Problema	Persona
+
 -Falta de organização dos registros de manutenção	Pequena indústria
+
 -Documentos de manutenção sem padrão de nomenclatura	Pequena indústria
+
 -Dificuldade para localizar documentos antigos	Pequena / Média indústria
+
 -Falta de histórico das máquinas	Pequena / Média indústria
+
 -Perda de informações na troca de turnos	Média / Grande indústria
+
 -Falta de comunicação entre equipes de manutenção	Média / Grande indústria
+
 -Dificuldade para acompanhar manutenções pendentes	Média indústria
+
 -Falta de controle das manutenções preventivas e corretivas	Média / Grande indústria
+
 -Dificuldade para identificar máquinas com falhas recorrentes	Média / Grande indústria
+
 -Falta de informações centralizadas sobre os equipamentos	Todas
+
 -Falta de controle sobre ferramentas	Pequena / Média indústria
+
 -Dificuldade para saber onde estão as ferramentas	Pequena / Média indústria
 -Falta de controle de retirada e devolução de ferramentas	Média / Grande indústria
+
+
 -Falta de informações sobre itens disponíveis no almoxarifado	Todas
+
 -Falta de controle de estoque de peças e materiais	Média / Grande indústria
+
 -Compra de materiais que já estão disponíveis	Média / Grande indústria
+
+
 -Falta de controle sobre itens que precisam ser repostos	Média / Grande indústria
+
 -Dependência do conhecimento de funcionários experientes	Pequena / Média indústria
+
 -Dificuldade para gerar relatórios de manutenção	Média / Grande indústria
+
 -Falta de indicadores de manutenção	Grande indústria
+
 -Dificuldade para tomar decisões baseadas em dados	Grande indústria
+
 -Tempo perdido procurando documentos, ferramentas e informações	Todas
+
 -Aumento do tempo de máquinas paradas	Todas
 
 Personas que eu usaria no projeto
