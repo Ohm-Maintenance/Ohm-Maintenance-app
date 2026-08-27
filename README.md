@@ -1,30 +1,69 @@
-## 👤 Persona do Projeto
+Problema Persona
 
-### **Carlos Eduardo Mendes 42 anos
+-Falta de organização dos registros de manutenção Pequena indústria
 
+-Documentos de manutenção sem padrão de nomenclatura Pequena indústria
 
+-Dificuldade para localizar documentos antigos Pequena / Média indústria
 
-#### 1. Perfil Demográfico e Profissional
-* **Idade:** 42 anos
-* **Cargo:** Gestor de Manutenção e Operações Industriais
-* **Formação:** Engenharia Mecânica com especialização em Gestão da Produção
-* **Empresa:** Indústria de manufatura de médio porte
-* **Experiência:** 15 anos atuando diretamente no setor industrial e liderança de equipes técnicas
-* **Tecnologia no dia a dia:** Utiliza notebook para relatórios no escritório e smartphone/tablet para acompanhar a rotina durante as rondas pelo chão de fábrica.
+-Falta de histórico das máquinas Pequena / Média indústria
 
-#### **2. Rotina e Comportamento**
-Carlos divide seu dia de trabalho entre o escritório corporativo e a linha de produção. Ele é responsável pela gestão da equipe técnica, cadastro e distribuição de acessos dos funcionários, além da supervisão do estado de todos os equipamentos da fábrica. Como a rotina é dinâmica e agitada, ele prefere ferramentas visuais, objetivas e práticas que não exijam treinamento longo ou processos burocráticos.
+-Perda de informações na troca de turnos Média / Grande indústria
 
-#### **3. Dores e Frustrações (O Problema)**
-* **Paradas Não Planejadas:** Máquinas quebram sem aviso prévio, gerando gargalos na linha de produção, atraso na entrega de pedidos e custos elevados com manutenção corretiva de emergência.
-* **Informações Dispersas:** Os manuais, esquemas elétricos e documentações técnicas dos maquinários ficam armazenados em arquivos físicos no escritório ou perdidos em pastas de computador. Quando um técnico precisa de um dado na fábrica, perde-se muito tempo procurando o documento correto.
-* **Falta de Monitoramento Preditivo:** Dificuldade para acompanhar o estado real de saúde das máquinas em tempo real sem precisar realizar inspeções manuais constantes em cada equipamento.
-* **Sistemas Lentos e Pouco Práticos:** Frustração com softwares corporativos legados que são difíceis de operar, demoram para carregar dados e não funcionam bem em dispositivos móveis.
+-Falta de comunicação entre equipes de manutenção Média / Grande indústria
 
-#### **4. Objetivos e Necessidades (A Solução no Sistema)**
-* **Prever Falhas com Sensores:** Acompanhar o status de saúde dos maquinários através de um painel simples (com indicadores de estado) alimentado pelos sensores instalados nas máquinas.
-* **Centralização da Informação:** Cadastrar a empresa, os colaboradores e criar o perfil completo de cada máquina com seus respectivos manuais e anexos em um único repositório digital.
-* **Mobilidade e Rapidez:** Consultar o status de qualquer máquina ou abrir manuais técnicos diretamente do smartphone ou tablet, enquanto caminha pelo chão de fábrica.
-* **Acessibilidade e Desempenho:** Utilizar um sistema leve, rápido e intuitivo que sua equipe consiga operar sem dificuldades no dia a dia.
+-Dificuldade para acompanhar manutenções pendentes Média indústria
 
----
+-Falta de controle das manutenções preventivas e corretivas Média / Grande indústria
+
+-Dificuldade para identificar máquinas com falhas recorrentes Média / Grande indústria
+
+-Falta de informações centralizadas sobre os equipamentos Todas
+
+-Falta de controle sobre ferramentas Pequena / Média indústria
+
+-Dificuldade para saber onde estão as ferramentas Pequena / Média indústria -Falta de controle de retirada e devolução de ferramentas Média / Grande indústria
+
+-Falta de informações sobre itens disponíveis no almoxarifado Todas
+
+-Falta de controle de estoque de peças e materiais Média / Grande indústria
+
+-Compra de materiais que já estão disponíveis Média / Grande indústria
+
+-Falta de controle sobre itens que precisam ser repostos Média / Grande indústria
+
+-Dependência do conhecimento de funcionários experientes Pequena / Média indústria
+
+-Dificuldade para gerar relatórios de manutenção Média / Grande indústria
+
+-Falta de indicadores de manutenção Grande indústria
+
+-Dificuldade para tomar decisões baseadas em dados Grande indústria
+
+-Tempo perdido procurando documentos, ferramentas e informações Todas
+
+-Aumento do tempo de máquinas paradas Todas
+
+Personas que eu usaria no projeto Persona 1 — Pequena Indústria
+
+Principal problema: falta de organização e centralização das informações.
+
+Possui poucos funcionários e geralmente utiliza planilhas, documentos ou até registros manuais para controlar a manutenção.
+
+Persona 2 — Média Indústria
+
+Principal problema: falta de controle e comunicação entre equipes e turnos.
+
+Possui uma operação maior, com diferentes funcionários e turnos, tornando mais difícil acompanhar as manutenções e compartilhar informações.
+
+Persona 3 — Grande Indústria
+
+Principal problema: complexidade na gestão e falta de informações para tomada de decisão.
+
+Possui grande quantidade de máquinas, funcionários, ferramentas e materiais, necessitando de dados centralizados, indicadores e relatórios.
+
+Persona 4 — Indústria com alto uso de almoxarifado
+
+Principal problema: falta de controle sobre ferramentas, peças e materiais.
+
+Possui grande movimentação de recursos utilizados pela manutenção e enfrenta dificuldades para controlar disponibilidade, retirada, devolução e reposição.
